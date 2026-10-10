@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hey World!\n";
+    std::cout << "Polina Prazdnicina. My favorite anime person - Tanjiro Kamado!\n";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
