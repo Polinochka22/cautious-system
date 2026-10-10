@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Polina Prazdnicina. My favorite anime person - Tanjiro Kamado!\n";
+    std::cout << "пPolina Prazdnicina. My favorite anime person - Tanjiro Kamado!\n";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
